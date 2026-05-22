@@ -2,9 +2,6 @@
   <h1>Hi there 👋, I'm Nguyen Thanh Luan</h1>
   <h3>🚀 Aspiring RTL Design & Design Verification Engineer</h3>
 </div>
-
-<br/>
-
 ## 👨‍💻 About Me
 
 I am a Computer Engineering student (K24) at the Faculty of Computer Science and Engineering (CSE), Ho Chi Minh City University of Technology (HCMUT). My core passion and career orientation lie in the Semiconductor industry, specifically targeting **RTL Design** and **Design Verification (DV)** roles.
@@ -15,8 +12,6 @@ I focus on designing optimized hardware modules and building rigorous verificati
 - 🎯 **Focus Areas:** ASIC/FPGA Design, RTL Coding, Functional Verification
 - 💡 **Currently Exploring:** Advanced Verification methodologies & AMBA bus architectures (AXI, AHB, APB)
 - 📫 **How to reach me:** [Email](luan.nguyen6206@gmail.com) | [Luân Nguyễn Thành](https://www.facebook.com/luan.nguyen.thanh.620738/)
-
-<br/>
 
 ## 🛠️ Tech Stack & Tools
 
