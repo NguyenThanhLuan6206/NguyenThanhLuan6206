@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there 👋, I'm Nguyen Thanh Luan</h1>
+  <h1>Hi 👋, I'm Nguyen Thanh Luan</h1>
   <h3>🚀 Aspiring AI Chip Design Engineer</h3>
 </div>
 ## 👨‍💻 About Me
@@ -10,7 +10,7 @@ I focus on designing optimized hardware modules and building rigorous verificati
 
 - 🎓 **Education:** K24 Computer Engineering, HCMUT - Bach Khoa
 - 🎯 **Focus Areas:** ASIC/FPGA Design, Functional Verification, AIoT SoC Architecture & Edge AI
-- 💡 **Currently Exploring:** Advanced Verification methodologies & AMBA bus architectures (AXI, AHB, APB)
+- 💡 **Currently Exploring:** RISC-V Architectures & Embedded Systems implementations
 - 📫 **How to reach me:** [Email](luan.nguyen6206@gmail.com) | [Luân Nguyễn Thành](https://www.facebook.com/luan.nguyen.thanh.620738/)
 
 ## 🛠️ Tech Stack & Tools
@@ -36,6 +36,3 @@ I focus on designing optimized hardware modules and building rigorous verificati
 
 <br/>
 ---
-<div align="center">
-  <i>Always eager to learn and conquer new challenges in the IC Design industry!</i>
-</div>
