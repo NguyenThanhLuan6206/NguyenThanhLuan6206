@@ -9,7 +9,7 @@ I am a Computer Engineering student (K24) at the Faculty of Computer Science and
 I focus on designing optimized hardware modules and building rigorous verification environments to ensure absolute reliability and zero-bug silicon for integrated circuits.
 
 - 🎓 **Education:** K24 Computer Engineering, HCMUT - Bach Khoa
-- 🎯 **Focus Areas:** ASIC/FPGA Design, RTL Coding, Functional Verification
+- 🎯 **Focus Areas:** ASIC/FPGA Design, Functional Verification, AIoT SoC Architecture & Edge AI
 - 💡 **Currently Exploring:** Advanced Verification methodologies & AMBA bus architectures (AXI, AHB, APB)
 - 📫 **How to reach me:** [Email](luan.nguyen6206@gmail.com) | [Luân Nguyễn Thành](https://www.facebook.com/luan.nguyen.thanh.620738/)
 
@@ -29,6 +29,9 @@ I focus on designing optimized hardware modules and building rigorous verificati
   <br/>
   <b>Documentation & Office Tools:</b><br/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" /><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word" /><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <br/>
+  <b>AI Assistants & Supporters:</b><br/>
+  <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /><img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" /><img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
 </div>
 
 <br/>
