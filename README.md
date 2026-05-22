@@ -14,7 +14,7 @@ I focus on designing optimized hardware modules and building rigorous verificati
 - 🎓 **Education:** K24 Computer Engineering, HCMUT - Bach Khoa
 - 🎯 **Focus Areas:** ASIC/FPGA Design, RTL Coding, Functional Verification
 - 💡 **Currently Exploring:** Advanced Verification methodologies & AMBA bus architectures (AXI, AHB, APB)
-- 📫 **How to reach me:** [Your LinkedIn Link] | [Your Email]
+- 📫 **How to reach me:** luan.nguyen6206@gmail.com
 
 <br/>
 
